@@ -1,0 +1,19 @@
+body{
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  font-family: 'Oswald', sans-serif;
+}
+
+h2{
+  font-family: 'Oswald', sans-serif;
+}
+
+.dim {
+  opacity: 0.5;
+}
+
+.jumbotron{
+  background-image: url(../img/fhs.png);
+}
