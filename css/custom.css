@@ -20,6 +20,7 @@ h3{
 
 .jumbotron{
   background-image: url(../img/fhs.png);
+  padding-top: 90px;
 }
 
 .main-content p{
