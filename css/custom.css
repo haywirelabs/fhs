@@ -10,10 +10,28 @@ h2{
   font-family: 'Oswald', sans-serif;
 }
 
+h3{
+  font-family: 'Oswald', sans-serif;
+}
+
 .dim {
   opacity: 0.5;
 }
 
 .jumbotron{
   background-image: url(../img/fhs.png);
+}
+
+.main-content p{
+  font-size: 1.1em;
+}
+
+footer{
+  padding: 50px;
+  float: left;
+  width: 100%;
+}
+
+img{
+  padding: 5px 0;
 }
