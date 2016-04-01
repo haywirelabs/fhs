@@ -36,3 +36,17 @@ footer{
 img{
   padding: 5px 0;
 }
+
+ul{
+  list-style: none;
+}
+li:before{
+  content: "⇢ ";
+  color: #AAAAAA;
+}
+span{
+  font-size: 2.5em;
+}
+blockquote{
+  border: 0;
+}
